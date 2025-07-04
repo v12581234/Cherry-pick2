@@ -3,9 +3,12 @@ public class main {
         System.out.println("Hello World");
         System.out.println("Hello World");
         System.out.println("Hello World");
-<<<<<<< HEAD
-=======
+
         System.out.println("Hello World");
         System.out.println("Hello World");
->>>>>>> 0fe4f9c (333)
+
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+        System.out.println("Hello World");
+
 }
